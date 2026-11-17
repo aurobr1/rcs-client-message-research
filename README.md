@@ -14,7 +14,7 @@ npm run dev
 
 Open the URL Vite prints, usually http://localhost:5173.
 
-The shareable copy is published from the `main` branch to GitHub Pages: https://aurobr1.github.io/rcs-client-message-research/
+The shareable copy is on Vercel: https://rcs-client-message-research.vercel.app
 
 `npm run build` typechecks and writes a static build to `dist/`.
 
